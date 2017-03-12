@@ -13,3 +13,8 @@ clipboard-1.5.5.js - 粘贴板功能 [github地址](https://zenorocha.github.io/
 
 ### 注意：
 power.js 是具体的实现，依赖于jQuery，使用前请先引入。或者做适当修改！
+
+
+### 教程
+
+[http://blog.plcent.com/archives/130](http://blog.plcent.com/archives/130)
