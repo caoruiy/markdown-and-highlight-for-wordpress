@@ -2,7 +2,6 @@
  * 全站JS
  */
  jQuery(document).ready(function($){
- 	window.onload = function(){prettyPrint();};
  	var Global = {
 		/*
 		 * 代码高亮的工具栏
@@ -175,8 +174,6 @@
 		 },
 		 init: function() {
 		 	this.codePrettify();
-		 	this.addTongji();
-		 	this.addAutoPush();
 		 }
 		};
 		Global.init();
