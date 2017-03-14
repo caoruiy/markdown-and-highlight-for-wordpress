@@ -17,4 +17,4 @@ power.js 是具体的实现，依赖于jQuery，使用前请先引入。或者�
 
 ### 教程
 
-[http://blog.plcent.com/archives/130](http://blog.plcent.com/archives/130)
+[https://blog.plcent.com/archives/130](https://blog.plcent.com/archives/130)
